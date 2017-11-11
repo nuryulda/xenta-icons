@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.6
-Homepage: http://www.xentaos.org/
+Homepage: https://github.com/xentaos/xenta-icons
 #Vcs-Git: git://anonscm.debian.org/collab-maint/xenta-icons.git
 #Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/xenta-icons.git
 
